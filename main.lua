@@ -1,6 +1,6 @@
-local bresenham = require 'bresenham'
+
 function love.load()
-    
+    bresenham = require 'bresenham' 
 end
 
 
